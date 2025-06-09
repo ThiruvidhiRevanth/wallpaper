@@ -1,10 +1,12 @@
- "articles":[
-  {
-    "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/01-01.jpg",
-    "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/01-02.jpg"
-  },
-  {
-    "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/2-1.png",
-    "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/2-2.png"
-  }
-]
+{
+  "articles": [
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/01-01.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/01-02.jpg"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/2-1.png",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/2-2.png"
+    }
+  ]
+}
