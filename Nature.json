@@ -1,6 +1,57 @@
-[
-  {
-    "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/01-01.jpg",
-    "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/01-02.jpg"
-  }
-]
+{
+  "Data": [
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na101.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na102.jpg",
+      "description": "nature,river,trees,warm"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na201.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na202.jpg",
+       "description": "nature,sunrise,road"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na301.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na302.jpg",
+        "description": "nature,boat"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na401.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na402.jpg",
+       "description": "nature"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na501.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na502.jpg",
+       "description": "nature"
+       
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na601.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na602.jpg",
+       "description": "nature"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na701.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na702.jpg",
+       "description": "nature"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na801.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na802.jpg",
+       "description": "nature"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na901.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na902.jpg",
+       "description": "nature"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na1001.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na1002.jpg",
+       "description": "nature"
+    },
+  ]
+}
