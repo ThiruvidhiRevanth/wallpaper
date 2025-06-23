@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga101.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga102.jpg",
+      "description": "gaming"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga201.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga202.jpg",
+       "description": "gaming"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga301.png",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga302.png",
+        "description": "gaming"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga401.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga402.jpg",
+       "description": "gaming"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga501.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga502.jpg",
+       "description": "gaming"
+       
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga601.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga602.jpg",
+       "description": "gaming"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga701.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga702.jpg",
+       "description": "gaming"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga801.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga802.jpg",
+       "description": "gaming"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga901.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga902.jpg",
+       "description": "gaming"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga1001.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/ga1002.jpg",
+       "description": "gaming"
+    }
+  ]
+}
