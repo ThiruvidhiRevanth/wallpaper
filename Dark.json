@@ -1,0 +1,57 @@
+{
+  "Data": [
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da101.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da102.jpg",
+      "description": "dark"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da201.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da202.jpg",
+       "description": "dark"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da301.png",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da302.png",
+        "description": "dark"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da401.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da402.jpg",
+       "description": "dark"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da501.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da502.jpg",
+       "description": "dark"
+       
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da601.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da602.jpg",
+       "description": "dark"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da701.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da702.jpg",
+       "description": "dark"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da801.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da802.jpg",
+       "description": "dark"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da901.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da902.jpg",
+       "description": "dark"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da1001.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/da1002.jpg",
+       "description": "dark"
+    }
+  ]
+}
