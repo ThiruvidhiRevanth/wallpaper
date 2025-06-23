@@ -52,6 +52,112 @@
       "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na1001.jpg",
       "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/na1002.jpg",
        "description": "nature"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs101.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs102.jpg",
+      "description": "cityspace"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs201.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs202.jpg",
+       "description": "cityspace"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs301.png",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs302.png",
+        "description": "cityspace"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs401.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs402.jpg",
+       "description": "cityspace"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs501.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs502.jpg",
+       "description": "cityspace"
+       
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs601.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs602.jpg",
+       "description": "cityspace"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs701.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs702.jpg",
+       "description": "cityspace"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs801.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs802.jpg",
+       "description": "cityspace"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs901.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs902.jpg",
+       "description": "cityspace"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs1001.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/cs1002.jpg",
+       "description": "cityspace"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp101.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp102.jpg",
+      "description": "Space"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp201.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp202.jpg",
+       "description": "Space"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp301.png",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp302.png",
+        "description": "Space"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp401.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp402.jpg",
+       "description": "Space"
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp501.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp502.jpg",
+       "description": "Space"
+       
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp601.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp602.jpg",
+       "description": "Space"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp701.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp702.jpg",
+       "description": "Space"
+      
+    },
+     {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp801.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp802.jpg",
+       "description": "Space"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp901.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp902.jpg",
+       "description": "Space"
+    },
+    {
+      "image1": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp1001.jpg",
+      "image2": "https://raw.githubusercontent.com/ThiruvidhiRevanth/wallpaper/refs/heads/main/images/sp1002.jpg",
+       "description": "Space"
     }
   ]
 }
